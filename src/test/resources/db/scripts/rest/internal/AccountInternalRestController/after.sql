@@ -1,0 +1,2 @@
+TRUNCATE TABLE collections CASCADE;
+TRUNCATE TABLE categories CASCADE;
